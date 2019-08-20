@@ -19,7 +19,7 @@
 
 .pragma library
 
-var logos = ["tux", "slackware", "ubuntu", "kubuntu", "opensuse", "manjaro", "arch", "fedora", "neon"]
+var logos = ["tux", "slackware", "ubuntu", "kubuntu", "opensuse", "manjaro", "arch", "fedora", "neon", "alt"]
 
 function getStandardLogo(logoId, distroName) {
     if (typeof distroName === 'undefined')
