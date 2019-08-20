@@ -24,7 +24,7 @@ Installation
 If you need localisation (i18n/l10n) support, please use `cmake` to install this widget to your system-wide directory. You also would need root permission.
 
 ````Shell
-git clone https://github.com/dhabyx/plasma-simpleMonitor.git plasma-simpleMonitor
+git clone https://github.com/Arbars/plasma-simpleMonitor.git plasma-simpleMonitor
 cd plasma-simpleMonitor
 mkdir build
 cd build
