@@ -41,6 +41,7 @@
                 <choice name="Arch"/>
                 <choice name="Fedora"/>
                 <choice name="Neon" />
+                <choice name="ALT Linux" />
             </choices>
             <default>0</default>
         </entry>
